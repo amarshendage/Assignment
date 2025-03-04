@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEB635D5-BAA8-4853-BA80-AE720DB2675B}|..\\Assignment3.4\\Assignment3.4.csproj|c:\\users\\com\\source\\repos\\c#\\5 january lecture practice\\assignment3.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C7E55E-FAB6-4FED-916D-5B06514D3DA9}|..\\Assignment1.3\\Assignment1.3.csproj|c:\\users\\com\\source\\repos\\c#\\5 january lecture practice\\assignment1.3\\nearestthousand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C7E55E-FAB6-4FED-916D-5B06514D3DA9}|..\\Assignment1.3\\Assignment1.3.csproj|c:\\users\\com\\source\\repos\\c#\\5 january lecture practice\\assignment1.3\\assignment1.3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E27162A-1583-4139-8C52-F815ECEE641E}|..\\Assignment1.2\\Assignment1.2.csproj|c:\\users\\com\\source\\repos\\c#\\5 january lecture practice\\assignment1.2\\personheight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129422BC-EE08-41CA-944E-67CBBCC3A8D8}|Assignment1.csproj|c:\\users\\com\\source\\repos\\c#\\5 january lecture practice\\assignment1\\areaofcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129422BC-EE08-41CA-944E-67CBBCC3A8D8}|Assignment1.csproj|solutionrelative:areaofcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 209,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AreaOfCircle.cs",
+              "DocumentMoniker": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1\\AreaOfCircle.cs",
+              "RelativeDocumentMoniker": "AreaOfCircle.cs",
+              "ToolTip": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1\\AreaOfCircle.cs",
+              "RelativeToolTip": "AreaOfCircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:06:32.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonHeight.cs",
+              "DocumentMoniker": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1.2\\PersonHeight.cs",
+              "RelativeDocumentMoniker": "..\\Assignment1.2\\PersonHeight.cs",
+              "ToolTip": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1.2\\PersonHeight.cs",
+              "RelativeToolTip": "..\\Assignment1.2\\PersonHeight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:06:25.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment3.4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Assignment3.4\\Program.cs",
+              "ToolTip": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment3.4\\Program.cs*",
+              "RelativeToolTip": "..\\Assignment3.4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:00:34.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment1.3",
+              "DocumentMoniker": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1.3\\Assignment1.3.csproj",
+              "RelativeDocumentMoniker": "..\\Assignment1.3\\Assignment1.3.csproj",
+              "ToolTip": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1.3\\Assignment1.3.csproj",
+              "RelativeToolTip": "..\\Assignment1.3\\Assignment1.3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T08:17:55.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NearestThousand.cs",
+              "DocumentMoniker": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1.3\\NearestThousand.cs",
+              "RelativeDocumentMoniker": "..\\Assignment1.3\\NearestThousand.cs",
+              "ToolTip": "C:\\Users\\Com\\source\\repos\\C#\\5 january lecture practice\\Assignment1.3\\NearestThousand.cs",
+              "RelativeToolTip": "..\\Assignment1.3\\NearestThousand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T07:58:29.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
