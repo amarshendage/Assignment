@@ -1,0 +1,15 @@
+D:\Assignment\Assignment\assignment_swap\bin\Debug\net8.0\assignment_swap.exe
+D:\Assignment\Assignment\assignment_swap\bin\Debug\net8.0\assignment_swap.deps.json
+D:\Assignment\Assignment\assignment_swap\bin\Debug\net8.0\assignment_swap.runtimeconfig.json
+D:\Assignment\Assignment\assignment_swap\bin\Debug\net8.0\assignment_swap.dll
+D:\Assignment\Assignment\assignment_swap\bin\Debug\net8.0\assignment_swap.pdb
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\assignment_swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\assignment_swap.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\assignment_swap.AssemblyInfo.cs
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\assignment_swap.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\assignment_swap.sourcelink.json
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\assignment_swap.dll
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\refint\assignment_swap.dll
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\assignment_swap.pdb
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\assignment_swap.genruntimeconfig.cache
+D:\Assignment\Assignment\assignment_swap\obj\Debug\net8.0\ref\assignment_swap.dll
