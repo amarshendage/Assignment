@@ -1,0 +1,4 @@
+C:\Users\Com\source\repos\C#\5 january lecture practice\ConsoleApp38\obj\Debug\net8.0\ConsoleApp38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Com\source\repos\C#\5 january lecture practice\ConsoleApp38\obj\Debug\net8.0\ConsoleApp38.AssemblyInfoInputs.cache
+C:\Users\Com\source\repos\C#\5 january lecture practice\ConsoleApp38\obj\Debug\net8.0\ConsoleApp38.AssemblyInfo.cs
+C:\Users\Com\source\repos\C#\5 january lecture practice\ConsoleApp38\obj\Debug\net8.0\ConsoleApp38.csproj.CoreCompileInputs.cache
