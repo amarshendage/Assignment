@@ -1,0 +1,15 @@
+D:\Assignment\Assignment\assigenmentswitchcase\bin\Debug\net8.0\assigenmentswitchcase.exe
+D:\Assignment\Assignment\assigenmentswitchcase\bin\Debug\net8.0\assigenmentswitchcase.deps.json
+D:\Assignment\Assignment\assigenmentswitchcase\bin\Debug\net8.0\assigenmentswitchcase.runtimeconfig.json
+D:\Assignment\Assignment\assigenmentswitchcase\bin\Debug\net8.0\assigenmentswitchcase.dll
+D:\Assignment\Assignment\assigenmentswitchcase\bin\Debug\net8.0\assigenmentswitchcase.pdb
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\assigenmentswitchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\assigenmentswitchcase.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\assigenmentswitchcase.AssemblyInfo.cs
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\assigenmentswitchcase.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\assigenmentswitchcase.sourcelink.json
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\assigenmentswitchcase.dll
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\refint\assigenmentswitchcase.dll
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\assigenmentswitchcase.pdb
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\assigenmentswitchcase.genruntimeconfig.cache
+D:\Assignment\Assignment\assigenmentswitchcase\obj\Debug\net8.0\ref\assigenmentswitchcase.dll
