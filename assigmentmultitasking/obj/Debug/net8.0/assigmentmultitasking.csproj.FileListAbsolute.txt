@@ -1,0 +1,15 @@
+D:\Assignment\Assignment\assigmentmultitasking\bin\Debug\net8.0\assigmentmultitasking.exe
+D:\Assignment\Assignment\assigmentmultitasking\bin\Debug\net8.0\assigmentmultitasking.deps.json
+D:\Assignment\Assignment\assigmentmultitasking\bin\Debug\net8.0\assigmentmultitasking.runtimeconfig.json
+D:\Assignment\Assignment\assigmentmultitasking\bin\Debug\net8.0\assigmentmultitasking.dll
+D:\Assignment\Assignment\assigmentmultitasking\bin\Debug\net8.0\assigmentmultitasking.pdb
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\assigmentmultitasking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\assigmentmultitasking.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\assigmentmultitasking.AssemblyInfo.cs
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\assigmentmultitasking.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\assigmentmultitasking.sourcelink.json
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\assigmentmultitasking.dll
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\refint\assigmentmultitasking.dll
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\assigmentmultitasking.pdb
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\assigmentmultitasking.genruntimeconfig.cache
+D:\Assignment\Assignment\assigmentmultitasking\obj\Debug\net8.0\ref\assigmentmultitasking.dll
