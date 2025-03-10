@@ -1,0 +1,15 @@
+D:\Assignment\Assignment\AssignmentAccessModifier\bin\Debug\net8.0\AssignmentAccessModifier.exe
+D:\Assignment\Assignment\AssignmentAccessModifier\bin\Debug\net8.0\AssignmentAccessModifier.deps.json
+D:\Assignment\Assignment\AssignmentAccessModifier\bin\Debug\net8.0\AssignmentAccessModifier.runtimeconfig.json
+D:\Assignment\Assignment\AssignmentAccessModifier\bin\Debug\net8.0\AssignmentAccessModifier.dll
+D:\Assignment\Assignment\AssignmentAccessModifier\bin\Debug\net8.0\AssignmentAccessModifier.pdb
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\AssignmentAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\AssignmentAccessModifier.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\AssignmentAccessModifier.AssemblyInfo.cs
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\AssignmentAccessModifier.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\AssignmentAccessModifier.sourcelink.json
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\AssignmentAccessModifier.dll
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\refint\AssignmentAccessModifier.dll
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\AssignmentAccessModifier.pdb
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\AssignmentAccessModifier.genruntimeconfig.cache
+D:\Assignment\Assignment\AssignmentAccessModifier\obj\Debug\net8.0\ref\AssignmentAccessModifier.dll
