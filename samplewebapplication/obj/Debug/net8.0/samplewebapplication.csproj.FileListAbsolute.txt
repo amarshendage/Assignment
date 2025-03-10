@@ -1,0 +1,8 @@
+D:\Assignment\Assignment\samplewebapplication\obj\Debug\net8.0\samplewebapplication.csproj.AssemblyReference.cache
+D:\Assignment\Assignment\samplewebapplication\obj\Debug\net8.0\samplewebapplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\samplewebapplication\obj\Debug\net8.0\samplewebapplication.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\samplewebapplication\obj\Debug\net8.0\samplewebapplication.AssemblyInfo.cs
+D:\Assignment\Assignment\samplewebapplication\obj\Debug\net8.0\samplewebapplication.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\samplewebapplication\obj\Debug\net8.0\samplewebapplication.MvcApplicationPartsAssemblyInfo.cs
+D:\Assignment\Assignment\samplewebapplication\obj\Debug\net8.0\samplewebapplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Assignment\Assignment\samplewebapplication\obj\Debug\net8.0\samplewebapplication.sourcelink.json
