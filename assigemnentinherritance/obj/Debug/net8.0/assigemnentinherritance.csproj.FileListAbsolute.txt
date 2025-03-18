@@ -1,0 +1,15 @@
+D:\Assignment\Assignment\assigemnentinherritance\bin\Debug\net8.0\assigemnentinherritance.exe
+D:\Assignment\Assignment\assigemnentinherritance\bin\Debug\net8.0\assigemnentinherritance.deps.json
+D:\Assignment\Assignment\assigemnentinherritance\bin\Debug\net8.0\assigemnentinherritance.runtimeconfig.json
+D:\Assignment\Assignment\assigemnentinherritance\bin\Debug\net8.0\assigemnentinherritance.dll
+D:\Assignment\Assignment\assigemnentinherritance\bin\Debug\net8.0\assigemnentinherritance.pdb
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\assigemnentinherritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\assigemnentinherritance.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\assigemnentinherritance.AssemblyInfo.cs
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\assigemnentinherritance.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\assigemnentinherritance.sourcelink.json
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\assigemnentinherritance.dll
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\refint\assigemnentinherritance.dll
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\assigemnentinherritance.pdb
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\assigemnentinherritance.genruntimeconfig.cache
+D:\Assignment\Assignment\assigemnentinherritance\obj\Debug\net8.0\ref\assigemnentinherritance.dll
