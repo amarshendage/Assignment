@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "assignmenetconstructor/1.0.0": {
+        "dependencies": {
+          "ClassLibrary5": "1.0.0"
+        },
+        "runtime": {
+          "assignmenetconstructor.dll": {}
+        }
+      },
+      "ClassLibrary5/1.0.0": {
+        "runtime": {
+          "ClassLibrary5.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignmenetconstructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
