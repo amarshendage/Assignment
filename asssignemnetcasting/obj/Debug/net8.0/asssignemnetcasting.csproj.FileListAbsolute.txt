@@ -1,0 +1,15 @@
+D:\Assignment\Assignment\asssignemnetcasting\bin\Debug\net8.0\asssignemnetcasting.exe
+D:\Assignment\Assignment\asssignemnetcasting\bin\Debug\net8.0\asssignemnetcasting.deps.json
+D:\Assignment\Assignment\asssignemnetcasting\bin\Debug\net8.0\asssignemnetcasting.runtimeconfig.json
+D:\Assignment\Assignment\asssignemnetcasting\bin\Debug\net8.0\asssignemnetcasting.dll
+D:\Assignment\Assignment\asssignemnetcasting\bin\Debug\net8.0\asssignemnetcasting.pdb
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\asssignemnetcasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\asssignemnetcasting.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\asssignemnetcasting.AssemblyInfo.cs
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\asssignemnetcasting.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\asssignemnetcasting.sourcelink.json
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\asssignemnetcasting.dll
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\refint\asssignemnetcasting.dll
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\asssignemnetcasting.pdb
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\asssignemnetcasting.genruntimeconfig.cache
+D:\Assignment\Assignment\asssignemnetcasting\obj\Debug\net8.0\ref\asssignemnetcasting.dll

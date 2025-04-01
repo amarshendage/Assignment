@@ -1,0 +1,15 @@
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\assignmentarrraypractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\assignmentarrraypractice.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\assignmentarrraypractice.AssemblyInfo.cs
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\assignmentarrraypractice.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\assignmentarrraypractice.sourcelink.json
+D:\Assignment\Assignment\assignmentarrraypractice\bin\Debug\net8.0\assignmentarrraypractice.exe
+D:\Assignment\Assignment\assignmentarrraypractice\bin\Debug\net8.0\assignmentarrraypractice.deps.json
+D:\Assignment\Assignment\assignmentarrraypractice\bin\Debug\net8.0\assignmentarrraypractice.runtimeconfig.json
+D:\Assignment\Assignment\assignmentarrraypractice\bin\Debug\net8.0\assignmentarrraypractice.dll
+D:\Assignment\Assignment\assignmentarrraypractice\bin\Debug\net8.0\assignmentarrraypractice.pdb
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\assignmentarrraypractice.dll
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\refint\assignmentarrraypractice.dll
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\assignmentarrraypractice.pdb
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\assignmentarrraypractice.genruntimeconfig.cache
+D:\Assignment\Assignment\assignmentarrraypractice\obj\Debug\net8.0\ref\assignmentarrraypractice.dll

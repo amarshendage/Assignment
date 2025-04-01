@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXjash9H3UY=",
+  "success": true,
+  "projectFilePath": "D:\\Assignment\\Assignment\\httprequestdemo\\HttprequestDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Com\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

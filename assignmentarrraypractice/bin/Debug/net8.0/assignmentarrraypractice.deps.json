@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "assignmentarrraypractice/1.0.0": {
+        "runtime": {
+          "assignmentarrraypractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "assignmentarrraypractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

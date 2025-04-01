@@ -1,0 +1,15 @@
+D:\Assignment\Assignment\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+D:\Assignment\Assignment\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+D:\Assignment\Assignment\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+D:\Assignment\Assignment\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+D:\Assignment\Assignment\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+D:\Assignment\Assignment\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll

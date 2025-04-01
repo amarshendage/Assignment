@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("assignmentemployeeaccessmodifer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c64866d2d6031b05efa81cfeff8d4cdee1bd52cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+723cf851f5e8d5effd634a2910773facdbada4d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("assignmentemployeeaccessmodifer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("assignmentemployeeaccessmodifer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
